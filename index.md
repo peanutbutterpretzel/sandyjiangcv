@@ -1,8 +1,9 @@
-## A sentence about Sandy Jiang.
+## Sandy Jiang 
 
-You can use the [editor on GitHub](https://github.com/peanutbutterpretzel/sandyjiangcv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Bio - Ever since Jiang stepped foot to the United States, she took on the roles of an interpreter, a translater, and a culture ambassador for her family and neighbors at the age of 12. Jiang graduated with a B.A. from the University of California, Santa Cruz with honors in History of Art and Visual Culture and the highest honors in Intensive Sociology. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For the past 12 years, she has been serving her community in the areas of social services, education, and advocacy. 
+
 
 ### Markdown
 
