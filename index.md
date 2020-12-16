@@ -1,20 +1,19 @@
-## Sandy Jiang 
+#Sandy Jiang 
 
 Bio - Ever since Jiang stepped foot to the United States, she took on the roles of an interpreter, a translater, and a culture ambassador for her family and neighbors at the age of 12. Jiang graduated with a B.A. from the University of California, Santa Cruz with honors in History of Art and Visual Culture and the highest honors in Intensive Sociology. 
 
 For the past 12 years, she has been serving her community in the areas of social services, education, and advocacy. 
 
 
-### Markdown
 
-WORK EXPERIENCE 
+##WORK EXPERIENCE 
 
-Senior Community Organizer 
+#Senior Community Organizer 
 Chinatown Community Development Center 
 04/2019 -- Present 
 - 
 
-Office Manager 
+#Office Manager 
 MEI Architects 
 09/2018 to 04/2019 
 Achievement/Tasks 
@@ -31,14 +30,14 @@ Achievement/Tasks
 - Implemented leadership development and one-on-one training sessions with canvassers. 
 - Drafted and finalized Chinese press releases, Chinese newspaper ads, and OpEds. 
 
-Field Organizer 
+#Field Organizer 
 Jane Kim for Mayor Campaign 
 03/2018 -- 06/2018 
 Achievements/Tasks 
 - Recruited and trained canvassers on Get Out the Cote Strategies such as canvassing, phone banking, visbility, and networking with local businesses where targeted demographic is represented. 
 - Provided Chinese translation for campaign literature, ads, and social media. 
 
-Relocation Specialist 
+#Relocation Specialist 
 Chinatown Community Development Center 
 08/2016 -- 10/2017 
 Achievements/ Tasks 
